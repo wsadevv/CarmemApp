@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "485701070968",
+    "firebase_url": "https://carmemapp-41bb3.firebaseio.com",
+    "project_id": "carmemapp-41bb3",
+    "storage_bucket": "carmemapp-41bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485701070968:android:96e95bc8984747b0",
+        "android_client_info": {
+          "package_name": "com.wsadevv.carmemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485701070968-dkvbubtsv1hudbdfvvhb5ef06ppc31qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXWw6SGKsugKuGZA7lVXk2Tj8k497G1b8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
