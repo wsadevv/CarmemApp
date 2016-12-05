@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CarmemApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_app">Carmem Coiffeur</string>
+    <string name="data_text">Escolha a data</string>
+    <string name="text_hour" />
+    <string name="hora_text">Escolha o horário</string>
+    <string name="servico_text">Escolha o serviço</string>
+    <string name="marcar_text">Marcar</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="service_text">Procedimento</string>
+    <string name="btn_hora">Selecione a hora</string>
+    <string name="btnHora">Selecione a data</string>
+    <string name="btnData">Selecione a data</string>
+</resources>
