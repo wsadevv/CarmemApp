@@ -1,4 +1,4 @@
-package com.wsadevv.carmemapp;
+package com.wsadevv.carmemapp.core.fragments;
 
 import android.app.Dialog;
 import android.app.TimePickerDialog;
@@ -11,7 +11,7 @@ import android.text.format.DateFormat;
 import android.widget.Button;
 import android.widget.TimePicker;
 
-import java.util.Date;
+import com.wsadevv.carmemapp.R;
 
 /**
  * Created by wsadevv on 05/12/16.

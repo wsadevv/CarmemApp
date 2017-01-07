@@ -1,4 +1,4 @@
-package com.wsadevv.carmemapp;
+package com.wsadevv.carmemapp.core.fragments;
 
 import android.app.DatePickerDialog;
 import android.app.Dialog;
@@ -10,6 +10,8 @@ import android.support.annotation.RequiresApi;
 import android.support.v4.app.DialogFragment;
 import android.widget.Button;
 import android.widget.DatePicker;
+
+import com.wsadevv.carmemapp.R;
 
 /**
  * Created by wsadevv on 05/12/16.

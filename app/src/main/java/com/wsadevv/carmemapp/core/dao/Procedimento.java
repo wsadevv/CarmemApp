@@ -1,8 +1,6 @@
-package com.wsadevv.carmemapp;
+package com.wsadevv.carmemapp.core.dao;
 
 import com.google.firebase.database.IgnoreExtraProperties;
-
-import java.util.Date;
 
 /**
  * Created by wsadevv on 05/12/16.

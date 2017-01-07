@@ -1,4 +1,4 @@
-package com.wsadevv.carmemapp;
+package com.wsadevv.carmemapp.core.dao;
 
 import com.google.firebase.database.FirebaseDatabase;
 
@@ -7,7 +7,7 @@ import com.google.firebase.database.FirebaseDatabase;
  */
 
 public class FirebaseDB {
-    FirebaseDatabase database = FirebaseDatabase.getInstance();
+    private FirebaseDatabase database = FirebaseDatabase.getInstance();
 
     public FirebaseDatabase getDatabase() {
         return database;

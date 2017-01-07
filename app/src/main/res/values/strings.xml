@@ -12,4 +12,6 @@
     <string name="btn_hora">Selecione a hora</string>
     <string name="btnHora">Selecione a data</string>
     <string name="btnData">Selecione a data</string>
+    <string name="title_activity_view_services">ViewServicesActivity</string>
+    <string name="title_activity_admin_controls">AdminControlsActivity</string>
 </resources>

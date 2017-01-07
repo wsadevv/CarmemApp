@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.wsadevv.carmemapp.MainActivity"
+    tools:context=".core.activities.MainActivity"
     app:layout_collapseParallaxMultiplier="1.0">
 
     <android.support.design.widget.AppBarLayout

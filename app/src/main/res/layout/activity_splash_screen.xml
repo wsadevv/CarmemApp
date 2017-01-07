@@ -4,13 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.wsadevv.carmemapp.MainActivity"
-    app:layout_collapseParallaxMultiplier="1.0">
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:scaleType="centerCrop"
-        android:background="@drawable/splash_done"/>
+    tools:context=".core.activities.MainActivity"
+    app:layout_collapseParallaxMultiplier="1.0"
+    android:background="@color/cast_libraries_material_featurehighlight_text_header_color">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -18,5 +14,37 @@
         android:theme="@style/AppTheme.AppBarOverlay">
 
     </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:layout_gravity="bottom">
+
+        <TextView
+            android:layout_width="330dp"
+            android:id="@+id/screenTextID"
+            android:text="@string/title_app"
+            android:textSize="@dimen/text_splash"
+            android:textColor="@color/cast_intro_overlay_background_color"
+            android:textAlignment="center"
+            android:layout_height="150dp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="320dp"
+        android:layout_gravity="center"
+        android:layout_height="320dp">
+
+        <ImageView
+            android:layout_width="350dp"
+            android:src="@drawable/female_256"
+            android:layout_height="320dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="35dp" />
+
+    </RelativeLayout>
+
 
 </android.support.design.widget.CoordinatorLayout>
